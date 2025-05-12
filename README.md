@@ -1,5 +1,7 @@
 ## README.md
 
+##TESTE PRÁTICO - JACKSON COSTA
+
 ### Descrição da Aplicação
 
 Esta é uma aplicação web full-stack desenvolvida para demonstrar a integração entre um backend em ASP.NET Core e um frontend em Angular. A aplicação exibe uma lista de pessoas com funcionalidades de paginação e filtro, permitindo uma navegação eficiente e uma experiência de usuário aprimorada.
