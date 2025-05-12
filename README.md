@@ -63,7 +63,7 @@ Durante o desenvolvimento desta aplicação, diversos padrões de projeto e desi
 1.  **Clonar o repositório (se aplicável):**
     ```bash
     git clone https://github.com/jacksonccosta/teste-pasqualli-plural.git
-    cd <NOME_DO_PROJETO>
+    cd teste-pasqualli-plural
     ```
 
 2.  **Executar o Backend (ASP.NET Core API):**
