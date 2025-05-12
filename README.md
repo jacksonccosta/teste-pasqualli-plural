@@ -62,7 +62,7 @@ Durante o desenvolvimento desta aplicação, diversos padrões de projeto e desi
 
 1.  **Clonar o repositório (se aplicável):**
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone https://github.com/jacksonccosta/teste-pasqualli-plural.git
     cd <NOME_DO_PROJETO>
     ```
 
